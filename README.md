@@ -60,7 +60,7 @@ A modern, responsive web application for discovering and bookmarking movies and 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/entertainment-web-app.git
+   git clone https://github.com/sk5190/entertainment-web-app.git
    cd entertainment-web-app
    ```
 
@@ -69,23 +69,19 @@ A modern, responsive web application for discovering and bookmarking movies and 
    npm install
    ```
 
-3. **Set up environment variables**
-   Create a `.env` file in the root directory:
-   ```env
-   VITE_TMDB_API_KEY=your_tmdb_api_key_here
-   ```
 
-4. **Get TMDb API Key**
+
+3. **Get TMDb API Key**
    - Visit [TMDb](https://www.themoviedb.org/settings/api)
    - Create an account and request an API key
    - Add your API key to the `.env` file
 
-5. **Run the development server**
+4. **Run the development server**
    ```bash
    npm run dev
    ```
 
-6. **Open your browser**
+5. **Open your browser**
    Navigate to `http://localhost:5173`
 
 ## 📦 Available Scripts
@@ -180,8 +176,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@sk5190](https://github.com/yourusername)
+- Email: ssk282175@gmail.com
 
 ---
 
